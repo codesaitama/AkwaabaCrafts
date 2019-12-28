@@ -2,7 +2,7 @@ using System;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Akwaaba.Models
+namespace AkwaabaCrafts.Models
 {
     public class Products{
         public string Id { get; set; }
